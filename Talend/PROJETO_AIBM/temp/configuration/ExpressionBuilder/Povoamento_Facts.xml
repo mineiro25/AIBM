@@ -1,0 +1,24 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<expression:EMFExpression xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:expression="http:///expression.ecore" id="tMap_1=>" expression="Math.round(((row11.DATAHORA_ALTA.getTime() - row11.DATAHORA_ADM.getTime()) / (60 * 1000)) % 60 )">
+  <variables name="row11.URG_EPISODIO" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row11.DATAHORA_ADM" value="null" talendType="id_Date" nullable="true"/>
+  <variables name="row11.DATAHORA_ALTA" value="null" talendType="id_Date" nullable="true"/>
+  <variables name="row11.ALTA_DES_ESPECIALIDADE" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row11.DES_LOCAL" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row11.DES_PROVENIENCIA" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row11.SEXO" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row11.DTA_NASCIMENTO" value="null" talendType="id_Date" nullable="true"/>
+  <variables name="row11.DES_CAUSA" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row1.id_Causa" value="0" talendType="id_Integer"/>
+  <variables name="row1.causa" value="null" talendType="id_String"/>
+  <variables name="row2.id_Data" value="0" talendType="id_Integer"/>
+  <variables name="row2.data_adm" value="null" talendType="id_Date"/>
+  <variables name="row3.id_Especialidade" value="0" talendType="id_Integer"/>
+  <variables name="row3.especialidade" value="null" talendType="id_String"/>
+  <variables name="row4.id_Genero" value="0" talendType="id_Integer"/>
+  <variables name="row4.genero" value="null" talendType="id_String"/>
+  <variables name="row5.id_Local" value="0" talendType="id_Integer"/>
+  <variables name="row5.localidade" value="null" talendType="id_String"/>
+  <variables name="row6.id_Proveniencia" value="0" talendType="id_Integer"/>
+  <variables name="row6.proveniencia" value="null" talendType="id_String"/>
+</expression:EMFExpression>

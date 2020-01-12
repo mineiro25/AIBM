@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_O1o6QCqEEeqZBpRmt05I3g" name="BD_URG" id="_spFxYCqDEeqZBpRmt05I3g" label="BD_URG" dataPackage="_Otbg4C6fEeqMU5C6LuHivA" DatabaseType="MySQL" DriverClass="com.mysql.cj.jdbc.Driver" URL="jdbc:mysql://localhost:3306/bd_urg?noDatetimeStringSync=true&amp;serverTimezone=Europe/Lisbon" dbVersionString="MYSQL_8" Port="3306" Username="root" Password="4u8cphYup+EiEjbhr1zJPA==" ServerName="localhost" DatasourceName="" FileFieldName="" SID="bd_urg" SqlSynthax="" StringQuote="" NullChar="" DbmsId="mysql_id" ProductId="MYSQL" AdditionalParams="noDatetimeStringSync=true&amp;serverTimezone=Europe/Lisbon" StandardSQL="true" SQLMode="false" UiSchema="">
+    <taggedValue xmi:id="_O1o6QSqEEeqZBpRmt05I3g" tag="Is Conn Need Reload" value="true"/>
+    <taggedValue xmi:id="_O3Qq4CqEEeqZBpRmt05I3g" tag="package filter" value=""/>
+    <taggedValue xmi:id="_O32gwCqEEeqZBpRmt05I3g" tag="Status" value=""/>
+    <taggedValue xmi:id="_O32gwSqEEeqZBpRmt05I3g" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_O32gwiqEEeqZBpRmt05I3g" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_O32gwyqEEeqZBpRmt05I3g" tag="Description" value=""/>
+    <taggedValue xmi:id="_O32gxCqEEeqZBpRmt05I3g" tag="Author" value=""/>
+    <taggedValue xmi:id="_O32gxSqEEeqZBpRmt05I3g" tag="otherParameter"/>
+    <taggedValue xmi:id="_2fH58CtVEeqHpc8NuFinrw" tag="DB ProductName" value="MySQL"/>
+    <taggedValue xmi:id="_2fH58StVEeqHpc8NuFinrw" tag="DB ProductVersion" value="8.0.18"/>
+    <taggedValue xmi:id="_2fH58itVEeqHpc8NuFinrw" tag="DB IdentifierQuoteString" value="`"/>
+    <parameters xmi:id="_O1o6QiqEEeqZBpRmt05I3g" key="CONN_PARA_KEY_USERNAME" value="root"/>
+    <parameters xmi:id="_zuZL4CqeEeq-6sn8PKbJgg" key="CONN_PARA_KEY_MAPRDB_TABLE_NS_MAPPING" value=""/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_Otbg4C6fEeqMU5C6LuHivA" name="bd_urg" dataManager="_O1o6QCqEEeqZBpRmt05I3g"/>
+</xmi:XMI>
